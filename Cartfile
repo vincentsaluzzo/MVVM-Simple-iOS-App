@@ -1,0 +1,7 @@
+github "ReactiveX/RxSwift"
+github "Moya/Moya"
+github "onevcat/Kingfisher"
+github "RxSwiftCommunity/RxDataSources"
+github "Swinject/Swinject"
+github "Swinject/SwinjectStoryboard"
+github "AliSoftware/Reusable"

@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  DemoApp
+
+  Created by Vincent Saluzzo on 10/12/2018.
+  Copyright © 2018 Vincent Saluzzo. All rights reserved.
+*/
+
+"Users.title" = "Utilisateurs";
+
+"User.post.comment.loading" = "Chargement...";
+"User.post.comment.number" = " %d commentaire(s)";
+
+"Albums.title" = "Albums";
+
+"Comment.say" = "%@ dit ";
+"Comment.emptyMessage.title" = "Message vide";
+"Comment.emptyMessage.body" = "Vous devez ecrire un message pour poster un commentaire";
+
+"Comment.errorMessage.title" = "Oups";
+"Comment.errorMessage.body" = "Une erreur est survenue, veuillez ré-essayer ultérieurement";
+
+"Comment.commentPosted.title" = "Commentaire envoyé !";
+"Comment.commentPosted.body" = "Merci, le commentaire va être modéré avant d'être affiché (approximativement 24h)";
+
+"Alert.DefaultAction" = "OK";
+
+"Alert.AvailableLater.title" = "Bientôt disponible...";
+"Alert.AvailableLater.message" = "Cette fonctionalité sera dsponible plus tard dans l'année.";

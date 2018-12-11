@@ -1,0 +1,21 @@
+disabled_rules:
+  - identifier_name
+  - nesting
+  - line_length
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+  - Carthage
+  - swiftgen
+variable_name:
+  max_length: 100
+ 
+large_tuple:
+ - 4
+ - 5
+type_name:
+  min_length: 4 # only warning
+  max_length: # warning and error
+    warning: 50
+    error: 60
+implicit_getter:
+  severity: error
+

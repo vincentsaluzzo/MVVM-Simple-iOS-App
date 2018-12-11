@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  DemoApp
+
+  Created by Vincent Saluzzo on 10/12/2018.
+  Copyright © 2018 Vincent Saluzzo. All rights reserved.
+*/
+
+"Users.title" = "Users";
+
+"User.post.comment.loading" = "Loading...";
+"User.post.comment.number" = " %d comment(s)";
+
+"Albums.title" = "Albums";
+
+"Comment.say" = "%@ says ";
+"Comment.emptyMessage.title" = "Empty message";
+"Comment.emptyMessage.body" = "You should write message for posting comment";
+
+"Comment.errorMessage.title" = "Oups";
+"Comment.errorMessage.body" = "An error has coming, please retry later";
+
+"Comment.commentPosted.title" = "Comment sent !";
+"Comment.commentPosted.body" = "Thank you, it will be moderate before displayed (approximatively 24h)";
+
+"Alert.DefaultAction" = "OK";
+
+"Alert.AvailableLater.title" = "Available soonly...";
+"Alert.AvailableLater.message" = "This feature will be release more later this year";

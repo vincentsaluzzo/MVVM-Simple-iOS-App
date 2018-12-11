@@ -1,0 +1,18 @@
+strings:
+  inputs: DemoApp/en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift4
+      output: DemoApp/Generated/strings.swift
+xcassets:
+  inputs:
+    - DemoApp/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: DemoApp/Generated/Assets.swift
+ib:
+    inputs: DemoApp/Base.lproj
+    outputs:
+      - templateName: scenes-swift4
+        output: DemoApp/Generated/Scenes.swift
+      - templateName: segues-swift4
+        output: DemoApp/Generated/Segues.swift
